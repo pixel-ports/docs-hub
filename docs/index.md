@@ -20,32 +20,34 @@ PIXEL has been financed by the Horizon 2020 initiative of the European Commissio
 
 ## Data Models
 
-![PIXEL High-Level Modules](img/PIXEL_global_architectures.jpg)
+The PIXEL Data Models are based on FIWARE data models <short description from the doc>
+   - Check [FIWARE Data Models](https://fiware-datamodels.readthedocs.io/en/latest/)
+   - Check [methodology latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
 ## Data Acquistion Layer (DAL)
 
 The DAL is <short description from the doc> 
 
-  - Check [methodology latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
+  - Check [DAL latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
 ## Information Hub (IH)   
 
 The IH is <short description from the doc> 
 
-  - Check [api latest documentation](https://inter-iot.readthedocs.io/projects/interapi/en/latest/)
+  - Check [IH latest documentation](https://inter-iot.readthedocs.io/projects/interapi/en/latest/)
   
-##  Operation Tools (OT)
+##  Operational Tools (OT)
 
 The OT are <short description from the doc> 
 
-  - Check [framework latest documentation](https://inter-iot.readthedocs.io/projects/framework/en/latest/)  
+  - Check [OT latest documentation](https://inter-iot.readthedocs.io/projects/framework/en/latest/)  
   
   
 ## Dashboard and Notification (DN)
 
 The DN is <short description from the doc>  
 
-  - Check [gateway latest documentation](https://inter-iot.readthedocs.io/projects/gateway/en/latest/)
+  - Check [DN latest documentation](https://inter-iot.readthedocs.io/projects/gateway/en/latest/)
 
 
   
