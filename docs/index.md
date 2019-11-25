@@ -1,4 +1,4 @@
-# PIXEL Docs Page 
+# PIXEL Documentation Page 
 
 
 
