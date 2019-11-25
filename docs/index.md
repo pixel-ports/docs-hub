@@ -16,11 +16,13 @@ PIXEL has been financed by the Horizon 2020 initiative of the European Commissio
 
 ## Main concepts
 
+The PIXEL architecture is divided into several building blocks to cover a wide range of needs for small, medium and large ports. The approach is data-centric so that multiple stakeholders and applications can homogeneously access to the data and provide added value services on top of them. 
+
 ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg)
 
 ## Data Models
 
-The PIXEL Data Models are based on FIWARE data models <short description from the doc>
+The PIXEL Data Models are based on FIWARE data models 
    - Check [FIWARE Data Models](https://fiware-datamodels.readthedocs.io/en/latest/)
    - Check [methodology latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
@@ -48,6 +50,13 @@ The OT are able to run the models and predictive algorithms deployed in the PIXE
 The DN is the user interface for port operators/stakeholders to build their own dashborad and notifications  
 
   - Check [DN latest documentation](https://inter-iot.readthedocs.io/projects/gateway/en/latest/)
+
+
+## Security and Privacy (S&P)
+
+The S&P is a cross-layer module intended to provide security to the whole platform  
+
+  - Check [S&P latest documentation](https://inter-iot.readthedocs.io/projects/gateway/en/latest/)
 
 
   
