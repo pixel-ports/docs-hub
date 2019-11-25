@@ -12,15 +12,15 @@ PIXEL is the first smart, flexible and scalable solution for reducing environmen
 
 PIXEL enables a two-way collaboration of ports, multimodal transport agents and cities for optimal use of internal and external resources, sustainable economic growth and environmental impact mitigation, towards the Ports of the Future . Built on top of the state-of-the art interoperability technologies, PIXEL centralises data from the different information silos where internal and external stakeholders store their operational information. PIXEL leverages an IoT based communication infrastructure to voluntarily exchange data among ports and stakeholders to achieve an efficient use of resources in ports.
 
-PIXEL has been financed by the Horizon 2020 initiative of the European Commission, contract 769355} 
+PIXEL has been financed by the Horizon 2020 initiative of the European Commission, contract 769355 
 
 ## Main concepts
 
-![PIXEL High-Level Modules](img/PIXEL_global_architecture.png)
+![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg)
 
 ## Data Models
 
-![PIXEL High-Level Modules](img/PIXEL_global_architectures.png)
+![PIXEL High-Level Modules](img/PIXEL_global_architectures.jpg)
 
 ## Data Acquistion Layer (DAL)
 
