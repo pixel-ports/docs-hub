@@ -20,11 +20,24 @@ The PIXEL architecture is divided into several building blocks to cover a wide r
 
 ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg)
 
+
 ## Data Models
 
 The PIXEL Data Models are based on FIWARE data models 
    - Check [FIWARE Data Models](https://fiware-datamodels.readthedocs.io/en/latest/)
    - Check [methodology latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
+
+
+## Models
+
+The PIXEL models cover Port-city, energy, intermodal transport and environment 
+  - Check [Models latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
+
+
+## Predictive Algorithms (PAs)
+
+The PIXEL predictive algorithms are able to make future predictions for port traffic, vessel arrivals, etc.  
+  - Check [PAs latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
 ## Data Acquistion Layer (DAL)
 
@@ -32,13 +45,15 @@ The DAL allows accessing data from heterogeneous sources (sensors, services, ope
 
   - Check [DAL latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
+
 ## Information Hub (IH)   
 
 The IH is the central repository of data (latest and historical) 
 
   - Check [IH latest documentation](https://inter-iot.readthedocs.io/projects/interapi/en/latest/)
   
-##  Operational Tools (OT)
+ 
+##  Operational Tools (OTs)
 
 The OT are able to run the models and predictive algorithms deployed in the PIXEL platform 
 
