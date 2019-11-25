@@ -6,7 +6,7 @@
 
 ## Overview
 
-This is the documents hub for the PIXEL project. 
+This is the documents hub for the PIXEL project (https://pixel-ports.eu/). 
 
 PIXEL is the first smart, flexible and scalable solution for reducing environmental impacts while enabling the optimization of operations in port ecosystems through IoT.
 
@@ -26,26 +26,26 @@ The PIXEL Data Models are based on FIWARE data models <short description from th
 
 ## Data Acquistion Layer (DAL)
 
-The DAL is <short description from the doc> 
+The DAL allows accessing data from heterogeneous sources (sensors, services, open data) 
 
   - Check [DAL latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
 ## Information Hub (IH)   
 
-The IH is <short description from the doc> 
+The IH is the central repository of data (latest and historical) 
 
   - Check [IH latest documentation](https://inter-iot.readthedocs.io/projects/interapi/en/latest/)
   
 ##  Operational Tools (OT)
 
-The OT are <short description from the doc> 
+The OT are able to run the models and predictive algorithms deployed in the PIXEL platform 
 
   - Check [OT latest documentation](https://inter-iot.readthedocs.io/projects/framework/en/latest/)  
   
   
 ## Dashboard and Notification (DN)
 
-The DN is <short description from the doc>  
+The DN is the user interface for port operators/stakeholders to build their own dashborad and notifications  
 
   - Check [DN latest documentation](https://inter-iot.readthedocs.io/projects/gateway/en/latest/)
 
