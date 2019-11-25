@@ -24,6 +24,7 @@ The PIXEL architecture is divided into several building blocks to cover a wide r
 ## Data Models
 
 The PIXEL Data Models are based on FIWARE data models 
+
    - Check [FIWARE Data Models](https://fiware-datamodels.readthedocs.io/en/latest/)
    - Check [methodology latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
@@ -31,12 +32,14 @@ The PIXEL Data Models are based on FIWARE data models
 ## Models
 
 The PIXEL models cover Port-city, energy, intermodal transport and environment 
+
   - Check [Models latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
 
 ## Predictive Algorithms (PAs)
 
-The PIXEL predictive algorithms are able to make future predictions for port traffic, vessel arrivals, etc.  
+The PIXEL predictive algorithms are able to make future predictions for port traffic, vessel arrivals, etc. 
+
   - Check [PAs latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
 ## Data Acquistion Layer (DAL)
