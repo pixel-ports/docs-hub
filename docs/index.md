@@ -65,7 +65,7 @@ The IH is the central repository of data (latest and historical)
 
 The OT are able to run the models and predictive algorithms deployed in the PIXEL platform 
 
-  - Check [OT latest documentation](https://inter-iot.readthedocs.io/projects/framework/en/latest/)  
+  - Check [OT latest documentation](https://docs-hub-ot.readthedocs.io/)  
   
   
 ## Dashboard and Notification (DN)
