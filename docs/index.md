@@ -21,6 +21,7 @@ PIXEL has been financed by the Horizon 2020 initiative of the European Commissio
 
 <div style="text-align: justify">
 The PIXEL architecture is divided into several building blocks to cover a wide range of needs for small, medium and large ports. The approach is data-centric so that multiple stakeholders and applications can homogeneously access to the data and provide added value services on top of them. 
+<br/>
 
 ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg)
 </div>
