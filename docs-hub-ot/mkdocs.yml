@@ -1,0 +1,26 @@
+site_name: PIXEL Operational Tools Documentation Hub
+site_description: 'PIXEL Operational Tools Documentation Hub'
+site_author: 'Benjamin Molina'
+
+theme: readthedocs
+
+repo_url: https://github.com/pixel-ports/ot-docs-hub
+
+
+pages:
+    - MkDocs: index.md
+    - User Guide:
+        - Instructions: user-guide/instructions.md
+        - Configuration: user-guide/configuration.md
+        - Custom themes: user-guide/custom-themes.md
+        - Plugins: user-guide/plugins.md
+    - About:
+        - Release Notes: about/release-notes.md
+        - Contributing: about/contributing.md
+        - License: about/license.md
+
+copyright: Apache License 2.0
+
+extra:
+  version: 1.0.0
+  color: 26b3c3
