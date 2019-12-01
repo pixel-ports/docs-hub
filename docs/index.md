@@ -7,8 +7,9 @@
 ## Overview
 
 <div style="text-align: justify"> 
-This is the documents hub for the PIXEL project (https://pixel-ports.eu/). <br/>
-
+This is the documents hub for the PIXEL project (https://pixel-ports.eu/). 
+</div>
+<div style="text-align: justify">
 PIXEL is the first smart, flexible and scalable solution for reducing environmental impacts while enabling the optimization of operations in port ecosystems through IoT.<br/>
 
 PIXEL enables a two-way collaboration of ports, multimodal transport agents and cities for optimal use of internal and external resources, sustainable economic growth and environmental impact mitigation, towards the Ports of the Future. Built on top of the state-of-the art interoperability technologies, PIXEL centralises data from the different information silos where internal and external stakeholders store their operational information. PIXEL leverages an IoT based communication infrastructure to voluntarily exchange data among ports and stakeholders to achieve an efficient use of resources in ports.
