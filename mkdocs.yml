@@ -8,7 +8,7 @@ repo_url: https://github.com/pixel-ports/docs-hub
 
 
 pages:
-    - MkDocs: index.md
+    - PIXEL: index.md
     - User Guide:
         - Instructions: user-guide/instructions.md
         - Configuration: user-guide/configuration.md
