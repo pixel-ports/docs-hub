@@ -20,7 +20,7 @@ PIXEL has been financed by the Horizon 2020 initiative of the European Commissio
 ## Main Concepts and Architecture
 
 <div align="justify">
-   
+
 The PIXEL platform aims at covering various challenges and facilitating operations at ports. Heterogeneous data including IoT sensors must be gathered and exchanged across different stakeholders operating at ports. Typically these data are difficult to handle due to a lack of homogenization and tools to operate them. 
 By using (extended) **FIWARE data models**, PIXEL brings clarity, homogeneity and common semantics to such data. Furthermore, these data are also treated and exploited by means of specific **models** and **predictive algorithms** (e.g. energy, pollution, traffic, etc.) which help defining environmental and operational KPIs at ports. Last but not least, data access and treatment is presented through a **powerful user-friendly dashboard** to port operators (and eventually other port stakeholders).
 </div>
