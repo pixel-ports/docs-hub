@@ -104,7 +104,8 @@ The PIXEL predictive algorithms are able to make following predictions:
 <div align="justify">
    
 The PIXEL Data Acquisition Layer consists of several components designed to push data from the several data sources available and the PIXEL Information Hub. The solution provides a standard way to acquire data from different data sources that implements different kind of protocols and different data types.
-The idea is to provide a standard way to import data into the PIXEL Information Hub in order to allow an easy use of any kind of data sources available on ports. Check the [latest documentation](https://pixel-ports.eu/) (TODO)
+The idea is to provide a standard way to import data into the PIXEL Information Hub in order to allow an easy use of any kind of data sources available on ports. 
+Check the [latest documentation](https://pixel-ports.eu/) (TODO)
 
 </div>
 
@@ -118,9 +119,18 @@ The idea is to provide a standard way to import data into the PIXEL Information 
 
 ## Information Hub (IH)   
 
-The IH is the central repository of data (latest and historical) 
+<div align="justify">
+   
+The PIXEL Information Hub consists of several parts conceptually divided into components that push data toward the database (downstream); components involved in stored data retrieval and further processing (upstream) and components responsible for data persistence and storage. In addition, the system provides supporting services for configuring, managing and monitoring the PIXEL Information Hub.
+Check the [latest documentation](https://pixel-ports.eu/) (TODO)
 
-  - Check [IH latest documentation](https://inter-iot.readthedocs.io/projects/interapi/en/latest/)
+</div>
+
+<p align="center">
+<img src="img/PIXEL_ih.jpg" alt="PIXEL IH" align="center" />
+<!-- ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg) -->
+</p>
+<br/>
 
 
  
