@@ -23,10 +23,7 @@ By using (extended) FIWARE data models, PIXEL brings clarity, homogeneity and co
 
 ![PIXEL High-Level Modules](img/PIXEL_main_concepts.jpg)
 
-
 The PIXEL architecture is divided into several building blocks to cover a wide range of needs for small, medium and large ports. The approach is data-centric so that multiple stakeholders and applications can homogeneously access to the data and provide added value services on top of them. 
-
-
 
 ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg)
 
@@ -40,11 +37,13 @@ The PIXEL Data Models are based on FIWARE data models
    - Check [methodology latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
 
+
 ## Models
 
 The PIXEL models cover Port-city, energy, intermodal transport and environment 
 
   - Check [Models latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
+
 
 
 ## Predictive Algorithms (PAs)
@@ -53,6 +52,8 @@ The PIXEL predictive algorithms are able to make future predictions for port tra
 
   - Check [PAs latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
+
+
 ## Data Acquistion Layer (DAL)
 
 The DAL allows accessing data from heterogeneous sources (sensors, services, open data) 
@@ -60,25 +61,29 @@ The DAL allows accessing data from heterogeneous sources (sensors, services, ope
   - Check [DAL latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
 
 
+
 ## Information Hub (IH)   
 
 The IH is the central repository of data (latest and historical) 
 
   - Check [IH latest documentation](https://inter-iot.readthedocs.io/projects/interapi/en/latest/)
-  
+
+
  
 ##  Operational Tools (OTs)
 
 The OT are able to run the models and predictive algorithms deployed in the PIXEL platform 
 
   - Check [OT latest documentation](https://docs-hub-ot.readthedocs.io/)  
-  
+ 
+ 
   
 ## Dashboard and Notification (DN)
 
 The DN is the user interface for port operators/stakeholders to build their own dashborad and notifications  
 
   - Check [DN latest documentation](https://inter-iot.readthedocs.io/projects/gateway/en/latest/)
+
 
 
 ## Security and Privacy (S&P)
