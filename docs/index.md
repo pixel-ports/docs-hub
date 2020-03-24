@@ -105,6 +105,7 @@ The PIXEL predictive algorithms are able to make following predictions:
    
 The PIXEL Data Acquisition Layer consists of several components designed to push data from the several data sources available and the PIXEL Information Hub. The solution provides a standard way to acquire data from different data sources that implements different kind of protocols and different data types.
 The idea is to provide a standard way to import data into the PIXEL Information Hub in order to allow an easy use of any kind of data sources available on ports. 
+
 Check the [latest documentation](https://pixel-ports.eu/) (TODO)
 
 </div>
@@ -122,6 +123,7 @@ Check the [latest documentation](https://pixel-ports.eu/) (TODO)
 <div align="justify">
    
 The PIXEL Information Hub consists of several parts conceptually divided into components that push data toward the database (downstream); components involved in stored data retrieval and further processing (upstream) and components responsible for data persistence and storage. In addition, the system provides supporting services for configuring, managing and monitoring the PIXEL Information Hub.
+
 Check the [latest documentation](https://pixel-ports.eu/) (TODO)
 
 </div>
@@ -136,10 +138,18 @@ Check the [latest documentation](https://pixel-ports.eu/) (TODO)
  
 ##  Operational Tools (OTs)
 
-The OT are able to run the models and predictive algorithms deployed in the PIXEL platform 
+<div align="justify">
+   
+The Operational Tools (OT) are mainly in charge of bringing closer to the user both the models and predictive algorithms developed in PIXEL. By user here we mean administrators and managers analysing port operations by means of simulation models and predictive algorithms. In order to reach that goal, a set of high-level operational tools are defined, such as publishing, editing,executing and scheduling models and predictive algorithms. KPI managament is also facilitated by the Operational Tools.
 
-  - Check [OT latest documentation](https://docs-hub-ot.readthedocs.io/)  
- 
+Check [latest documentation](https://docs-hub-ot.readthedocs.io/)  
+</div>
+
+<p align="center">
+<img src="img/PIXEL_ot.jpg" alt="PIXEL OT" align="center" />
+<!-- ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg) -->
+</p>
+<br/> 
  
   
 ## Dashboard and Notification (DN)
