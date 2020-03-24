@@ -14,6 +14,7 @@ PIXEL enables a two-way collaboration of ports, multimodal transport agents and 
 
 PIXEL has been financed by the Horizon 2020 initiative of the European Commission, contract 769355  
 </div>
+<br/><br/>
 
 
 ## Main Concepts and Architecture
@@ -32,7 +33,7 @@ The PIXEL architecture is divided into several building blocks to cover a wide r
 
 ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg)
 
-
+<br/><br/>
 
 ## Data Models
 
