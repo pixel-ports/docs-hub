@@ -55,7 +55,6 @@ alt="PIXEL presentation" width="240" height="180" border="10" /></a>
 
 
 ## Data Models
-
 <div align="justify">
    
 The PIXEL Data Models are based on **FIWARE data models**, which have been harmonized to enable data portability for different applications including, Smart Cities, Smart Agrifood, Smart Environment, Smart Sensoring, Smart Enery, Smart Water and others domains. The PIXEL application domain refers to ports and port operations but we will follow and extend the FIWARE data model methodology.
