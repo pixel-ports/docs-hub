@@ -91,8 +91,8 @@ The PIXEL predictive algorithms are able to make following predictions:
 
 
   - **Prediction of vessel call data from FAL forms and other sources**: internal data about vessel calls is utilized to predict vessel calls and their durations. General statistical analysis and visualizations are also performed. Vessel call data is available in every port as is obtained from FAL forms which are legally required, thus making this task generally applicable to every port at a low cost. Internal vessel call data that was identified is presented along with the detailed descriptions of the subtasks, methodology and initial results. Check the [latest documentation](https://pixel-ports.eu/) (TODO)
-  - **Analysis and prediction of road traffic conditions with connection to port operations**: here hinterland multimodal transport requirements for various ports (Port of Monfalcone, Port of Piraeus and Port of Thessaloniki) are addressed. A common task of short-term traffic volume prediction was identified. Predictions are correlated with port operations to provide estimates on the impact that congestions have on them. Different data sources were identified, mainly from regional road operators or openly available data. Check the [latest documentation](https://pixel-ports.eu/) (TODO)
-  - **Prediction of renewable energy production**: this output provides ports with the ability to estimate the potential of renewable energy production for different time resolutions. it was focused on Port of Bordeaux use case, but the developed methods are general and applicable for any port. Different open data sources are identified about the weather and measured photovoltaic power. Live, as well as historical data sources are presented, with initial results based on this data. Check the [latest documentation](https://pixel-ports.eu/) (TODO)
+  - **Analysis and prediction of road traffic conditions with connection to port operations**: here hinterland multimodal transport requirements for various ports (Port of Monfalcone, Port of Piraeus and Port of Thessaloniki) are addressed. A common task of short-term traffic volume prediction was identified. Predictions are correlated with port operations to provide estimates on the impact that congestions have on them. Different data sources were identified, mainly from regional road operators or openly available data. Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
+  - **Prediction of renewable energy production**: this output provides ports with the ability to estimate the potential of renewable energy production for different time resolutions. it was focused on Port of Bordeaux use case, but the developed methods are general and applicable for any port. Different open data sources are identified about the weather and measured photovoltaic power. Live, as well as historical data sources are presented, with initial results based on this data. Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 </div>  
   
 
@@ -105,7 +105,7 @@ The PIXEL predictive algorithms are able to make following predictions:
 The PIXEL Data Acquisition Layer consists of several components designed to push data from the several data sources available and the PIXEL Information Hub. The solution provides a standard way to acquire data from different data sources that implements different kind of protocols and different data types.
 The idea is to provide a standard way to import data into the PIXEL Information Hub in order to allow an easy use of any kind of data sources available on ports. 
 
-Check the [latest documentation](https://pixel-ports.eu/) (TODO)
+Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
 </div>
 
@@ -122,7 +122,7 @@ Check the [latest documentation](https://pixel-ports.eu/) (TODO)
    
 The PIXEL Information Hub consists of several parts conceptually divided into components that push data toward the database (downstream); components involved in stored data retrieval and further processing (upstream) and components responsible for data persistence and storage. In addition, the system provides supporting services for configuring, managing and monitoring the PIXEL Information Hub.
 
-Check the [latest documentation](https://pixel-ports.eu/) (TODO)
+Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
 </div>
 
@@ -139,7 +139,7 @@ Check the [latest documentation](https://pixel-ports.eu/) (TODO)
    
 The Operational Tools (OT) are mainly in charge of bringing closer to the user both the models and predictive algorithms developed in PIXEL. By user here we mean administrators and managers analysing port operations by means of simulation models and predictive algorithms. In order to reach that goal, a set of high-level operational tools are defined, such as publishing, editing,executing and scheduling models and predictive algorithms. KPI managament is also facilitated by the Operational Tools.
 
-Check [latest documentation](https://docs-hub-ot.readthedocs.io/)  
+Check [latest documentation](https://docs-hub-ot.readthedocs.io/)  with tutorials and code access (TODO). 
 </div>
 
 <p align="center">
@@ -163,7 +163,7 @@ These data are represented to the platform user via three main channels:
 - GIS: Geolocated data (sensors, devices, services, data result) is represented in a map view, which offers the geospatial interpretation of the data and allows interpolation of information, detecting potential sources of anomalies, etc. 
 - Notifications: Coming from executions of predefined rules/conditions, this channel allows the transmission of high-importance or actionable information to the appropriate addressee(s), doing it in the specific moment when the information is useful for informed decision-making, establishing prevention mechanisms or doing meaningful reports.
 
-Check the [latest documentation](https://pixel-ports.eu/) (TODO)
+Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
 </div>
 
@@ -183,7 +183,7 @@ The PIXEL Security solution is in charge of providing a solution to identify and
 The solution provides an API Gateway based on OAuth2 mechanism in order to protect the access of the different API exposed by PIXEL. The Gateway also implements XACML rules in order to define access rules based on API URL and VERBS and the user roles.
 The security solution provides also an Identity Management solution that can be used by other PIXEL components to share the same user identity across all platforms.
 
-Check the [latest documentation](https://pixel-ports.eu/) (TODO)
+Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
 </div>
 
