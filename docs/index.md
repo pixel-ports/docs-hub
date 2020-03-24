@@ -30,15 +30,6 @@ By using (extended) **FIWARE data models**, PIXEL brings clarity, homogeneity an
 
 The PIXEL architecture is divided into several building blocks to cover a wide range of needs for **small, medium and large ports**. The approach is **data-centric** so that multiple stakeholders and applications can homogeneously access to the data and provide added value services on top of them. 
 
-</div>
-
-
-
-<div align="justify">
-   
-The PIXEL architecture is divided into several building blocks to cover a wide range of needs for **small, medium and large ports**. The approach is **data-centric** so that multiple stakeholders and applications can homogeneously access to the data and provide added value services on top of them. 
-</div>
-
 <br/>
 
 <p align="center">
@@ -46,17 +37,21 @@ The PIXEL architecture is divided into several building blocks to cover a wide r
 <!-- ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg) -->
 </p>
 
-
 <br/>
 
 You can see a short video presentation with more information about PIXEL in our **Youtube channel**
 <br/>
+
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=S8tNBK5n24w
 " target="_blank"><img src="http://img.youtube.com/vi/S8tNBK5n24w/0.jpg" 
 alt="PIXEL presentation" width="240" height="180" border="10" /></a>
 </p>
+
 <br/><br/>
+
+</div>
+
 
 
 ## Data Models
