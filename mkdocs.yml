@@ -3,6 +3,7 @@ site_description: 'PIXEL Documentation Hub'
 site_author: 'Benjamin Molina'
 
 theme: readthedocs
+extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css", "https://www.fiware.org/style/fiware_readthedocs_core.css"]
 
 repo_url: https://github.com/pixel-ports/docs-hub
 
