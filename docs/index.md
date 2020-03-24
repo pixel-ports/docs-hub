@@ -78,7 +78,6 @@ Ports activities undeniably have an impact on their environment, the city and ci
 
 <p align="center">
 <img src="img/PIXEL_models.jpg" alt="PIXEL models" align="center" />
-<!-- ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg) -->
 </p>
 <br/>
 
@@ -112,7 +111,6 @@ Check the [latest documentation](https://pixel-ports.eu/) (TODO)
 
 <p align="center">
 <img src="img/PIXEL_dal.jpg" alt="PIXEL DAL" align="center" />
-<!-- ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg) -->
 </p>
 <br/>
 
@@ -130,7 +128,6 @@ Check the [latest documentation](https://pixel-ports.eu/) (TODO)
 
 <p align="center">
 <img src="img/PIXEL_ih.jpg" alt="PIXEL IH" align="center" />
-<!-- ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg) -->
 </p>
 <br/>
 
@@ -147,16 +144,36 @@ Check [latest documentation](https://docs-hub-ot.readthedocs.io/)
 
 <p align="center">
 <img src="img/PIXEL_ot.jpg" alt="PIXEL OT" align="center" />
-<!-- ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg) -->
 </p>
 <br/> 
  
   
 ## Dashboard and Notification (DN)
 
-The DN is the user interface for port operators/stakeholders to build their own dashborad and notifications  
+<div align="justify">
+   
+The PIXEL Integrated Dashboard and Notifications is designed to show the data available from the PIXEL Operational Tools and also from the IH. These data are the result of:
+- Retrieving data from IoT and other information sensors
+- Apply (execute) predictive algorithms and models.
+- Calculate the PEI.
+- Notifications from Event Processing. Whenever a rule is met, a notification will be received.
 
-  - Check [DN latest documentation](https://inter-iot.readthedocs.io/projects/gateway/en/latest/)
+These data are represented to the platform user via three main channels:
+•	Charts & Dashboard. Visualization of the data received from the different data sources (devices, sensors), results of simulations, predictions, etc.
+•	GIS. Geolocated data (sensors, devices, services, data result) is represented in a map view, which offers the geospatial interpretation of the data and allows interpolation of information, detecting potential sources of anomalies, etc. 
+•	Notifications: Coming from executions of predefined rules/conditions, this channel allows the transmission of high-importance or actionable information to the appropriate addressee(s), doing it in the specific moment when the information is useful for informed decision-making, establishing prevention mechanisms or doing meaningful reports.
+
+
+
+Check the [latest documentation](https://pixel-ports.eu/) (TODO)
+
+</div>
+
+<p align="center">
+<img src="img/PIXEL_dashboard.jpg" alt="PIXEL Dashboard" align="center" />
+</p>
+<br/>
+
 
 
 
