@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-<p align="center">
+<p align="justify">
 This is the documents hub for the PIXEL project (https://pixel-ports.eu/). 
 
 PIXEL is the first smart, flexible and scalable solution for reducing environmental impacts while enabling the optimization of operations in port ecosystems through IoT.
