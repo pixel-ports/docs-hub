@@ -24,7 +24,10 @@ The PIXEL platform aims at covering various challenges and facilitating operatio
 By using (extended) **FIWARE data models**, PIXEL brings clarity, homogeneity and common semantics to such data. Furthermore, these data are also treated and exploited by means of specific **models** and **predictive algorithms** (e.g. energy, pollution, traffic, etc.) which help defining environmental and operational KPIs at ports. Last but not least, data access and treatment is presented through a **powerful user-friendly dashboard** to port operators (and eventually other port stakeholders).
 </div>
 
-![PIXEL High-Level Modules](img/PIXEL_main_concepts.jpg)
+<p align="center">
+<img src="img/PIXEL_main_concepts.jpg" alt="PIXEL main concepts" align="center" />
+<!-- ![PIXEL High-Level Modules](img/PIXEL_main_concepts.jpg) -->
+</p>
 
 <div align="justify">
    
