@@ -83,12 +83,10 @@ Ports activities undeniably have an impact on their environment, the city and ci
 
 
 ## Predictive Algorithms (PAs)
-
 <div align="justify">
 
 **Artificial Intelligence (AI)** is becoming one of the main factors in a successful digital transformation of the ports. Larger ports are increasingly becoming aware of the value that is present in a daily collected operational data. The ability to harness **operational insights** from vast amounts of data that is collected in the ports, will be one of the main advantages of future ports to make them **more efficient** in terms of energy efficiency, hinterland multimodal transport needs and to better anticipate harmful actions.
 The PIXEL predictive algorithms are able to make following predictions: 
-
 
   - **Prediction of vessel call data from FAL forms and other sources**: internal data about vessel calls is utilized to predict vessel calls and their durations. General statistical analysis and visualizations are also performed. Vessel call data is available in every port as is obtained from FAL forms which are legally required, thus making this task generally applicable to every port at a low cost. Internal vessel call data that was identified is presented along with the detailed descriptions of the subtasks, methodology and initial results. Check the [latest documentation](https://pixel-ports.eu/) (TODO)
   - **Analysis and prediction of road traffic conditions with connection to port operations**: here hinterland multimodal transport requirements for various ports (Port of Monfalcone, Port of Piraeus and Port of Thessaloniki) are addressed. A common task of short-term traffic volume prediction was identified. Predictions are correlated with port operations to provide estimates on the impact that congestions have on them. Different data sources were identified, mainly from regional road operators or openly available data. Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
@@ -99,7 +97,6 @@ The PIXEL predictive algorithms are able to make following predictions:
 
 
 ## Data Acquistion Layer (DAL)
-
 <div align="justify">
    
 The PIXEL Data Acquisition Layer consists of several components designed to push data from the several data sources available and the PIXEL Information Hub. The solution provides a standard way to acquire data from different data sources that implements different kind of protocols and different data types.
@@ -107,76 +104,83 @@ The idea is to provide a standard way to import data into the PIXEL Information 
 
 Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
-</div>
-
 <p align="center">
 <img src="img/PIXEL_dal.jpg" alt="PIXEL DAL" align="center" />
 </p>
 <br/>
 
+</div>
+
+
+
 
 
 ## Information Hub (IH)   
-
 <div align="justify">
    
 The PIXEL Information Hub consists of several parts conceptually divided into components that push data toward the database (downstream); components involved in stored data retrieval and further processing (upstream) and components responsible for data persistence and storage. In addition, the system provides supporting services for configuring, managing and monitoring the PIXEL Information Hub.
 
 Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
-</div>
-
 <p align="center">
 <img src="img/PIXEL_ih.jpg" alt="PIXEL IH" align="center" />
 </p>
 <br/>
 
+</div>
+
+
+
 
  
 ##  Operational Tools (OTs)
-
 <div align="justify">
    
 The Operational Tools (OT) are mainly in charge of bringing closer to the user both the models and predictive algorithms developed in PIXEL. By user here we mean administrators and managers analysing port operations by means of simulation models and predictive algorithms. In order to reach that goal, a set of high-level operational tools are defined, such as publishing, editing,executing and scheduling models and predictive algorithms. KPI managament is also facilitated by the Operational Tools.
 
 Check [latest documentation](https://docs-hub-ot.readthedocs.io/)  with tutorials and code access (TODO). 
-</div>
 
 <p align="center">
 <img src="img/PIXEL_ot.jpg" alt="PIXEL OT" align="center" />
 </p>
 <br/> 
+
+</div>
+
+
  
   
 ## Dashboard and Notification (DN)
-
 <div align="justify">
    
 The PIXEL Integrated Dashboard and Notifications is designed to show the data available from the PIXEL Operational Tools and also from the IH. These data are the result of:
+
 - Retrieving data from IoT and other information sensors
 - Apply (execute) predictive algorithms and models.
 - Calculate the PEI.
 - Notifications from Event Processing. Whenever a rule is met, a notification will be received.
 
 These data are represented to the platform user via three main channels:
+
 - Charts & Dashboard: Visualization of the data received from the different data sources (devices, sensors), results of simulations, predictions, etc.
 - GIS: Geolocated data (sensors, devices, services, data result) is represented in a map view, which offers the geospatial interpretation of the data and allows interpolation of information, detecting potential sources of anomalies, etc. 
 - Notifications: Coming from executions of predefined rules/conditions, this channel allows the transmission of high-importance or actionable information to the appropriate addressee(s), doing it in the specific moment when the information is useful for informed decision-making, establishing prevention mechanisms or doing meaningful reports.
 
 Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
-</div>
-
 <p align="center">
 <img src="img/PIXEL_dashboard.jpg" alt="PIXEL Dashboard" align="center" />
 </p>
 <br/>
 
+</div>
+
+
+
 
 
 
 ## Security and Privacy (S&P)
-
 <div align="justify">
    
 The PIXEL Security solution is in charge of providing a solution to identify and authenticate users that could be connected to existing identity management solutions already deployed in ports, and also of providing a solution to control the access of the data managed by the PIXEL platform.
@@ -185,12 +189,14 @@ The security solution provides also an Identity Management solution that can be 
 
 Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
-</div>
-
 <p align="center">
 <img src="img/PIXEL_security.jpg" alt="PIXEL Security" align="center" />
 </p>
 <br/>
+
+</div>
+
+
   
 
  
