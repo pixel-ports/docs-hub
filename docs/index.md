@@ -21,24 +21,28 @@ PIXEL has been financed by the Horizon 2020 initiative of the European Commissio
 <div align="justify">
 The PIXEL platform aims at covering various challenges and facilitating operations at ports. Heterogeneous data including IoT sensors must be gathered and exchanged across different stakeholders operating at ports. Typically these data are difficult to handle due to a lack of homogenization and tools to operate them. 
 By using (extended) FIWARE data models, PIXEL brings clarity, homogeneity and common semantics to such data. Furthermore, these data are also treated and exploited by means of specific models and predictive algorithms (e.g. energy, pollution, traffic, etc.) which help defining environmental and operational KPIs at ports. Last but not least, data access and treatment is presented through a powerful user-friendly dashboard to port operators (and eventually other port stakeholders).
-
+</div>
 
 ![PIXEL High-Level Modules](img/PIXEL_main_concepts.jpg)
 
+
+<div align="justify">
 The PIXEL architecture is divided into several building blocks to cover a wide range of needs for small, medium and large ports. The approach is data-centric so that multiple stakeholders and applications can homogeneously access to the data and provide added value services on top of them. 
+</div>
 
 ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg)
-</div>
+
 
 
 ## Data Models
 
 <div align="justify">
 The PIXEL Data Models are based on FIWARE data models, which have been harmonized to enable data portability for different applications including, Smart Cities, Smart Agrifood, Smart Environment, Smart Sensoring, Smart Enery, Smart Water and others domains. The PIXEL application domain refers to ports and port operations but we will follow and extend the FIWARE methodology.
+</div>
 
    - Check more information about [FIWARE Data Models](https://www.fiware.org/developers/data-models/). It also has a [ReadTheDocs](https://fiware-datamodels.readthedocs.io/en/latest/) documentation repository.
    - Check some [PIXEL data models](https://pixel-ports.eu/)
-</div>
+
 
 
 ## Models
