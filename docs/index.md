@@ -136,7 +136,9 @@ Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and co
 ##  Operational Tools (OTs)
 <div align="justify">
    
-The Operational Tools (OT) are mainly in charge of bringing closer to the user both the models and predictive algorithms developed in PIXEL. By user here we mean administrators and managers analysing port operations by means of simulation models and predictive algorithms. In order to reach that goal, a set of high-level operational tools are defined, such as publishing, editing,executing and scheduling models and predictive algorithms. KPI managament is also facilitated by the Operational Tools.
+The Operational Tools (OT) are mainly in charge of **bringing closer to the user** both the **models and predictive algorithms** developed in PIXEL. By user here we mean administrators and managers analysing port operations by means of simulation models and predictive algorithms. 
+
+In order to reach that goal, a set of high-level operational tools are defined, such as publishing, editing,executing and scheduling models and predictive algorithms. **KPI managament** and **event processing** is also facilitated by the Operational Tools.
 
 Check [latest documentation](https://docs-hub-ot.readthedocs.io/)  with tutorials and code access (TODO). 
 
@@ -162,9 +164,9 @@ The PIXEL Integrated Dashboard and Notifications is designed to show the data av
 
 These data are represented to the platform user via three main channels:
 
-- Charts & Dashboard: Visualization of the data received from the different data sources (devices, sensors), results of simulations, predictions, etc.
-- GIS: Geolocated data (sensors, devices, services, data result) is represented in a map view, which offers the geospatial interpretation of the data and allows interpolation of information, detecting potential sources of anomalies, etc. 
-- Notifications: Coming from executions of predefined rules/conditions, this channel allows the transmission of high-importance or actionable information to the appropriate addressee(s), doing it in the specific moment when the information is useful for informed decision-making, establishing prevention mechanisms or doing meaningful reports.
+- **Charts & Dashboard**: Visualization of the data received from the different data sources (devices, sensors), results of simulations, predictions, etc.
+- **GIS**: Geolocated data (sensors, devices, services, data result) is represented in a map view, which offers the geospatial interpretation of the data and allows interpolation of information, detecting potential sources of anomalies, etc. 
+- **Notifications**: Coming from executions of predefined rules/conditions, this channel allows the transmission of high-importance or actionable information to the appropriate addressee(s), doing it in the specific moment when the information is useful for informed decision-making, establishing prevention mechanisms or doing meaningful reports.
 
 Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
@@ -183,9 +185,10 @@ Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and co
 ## Security and Privacy (S&P)
 <div align="justify">
    
-The PIXEL Security solution is in charge of providing a solution to identify and authenticate users that could be connected to existing identity management solutions already deployed in ports, and also of providing a solution to control the access of the data managed by the PIXEL platform.
-The solution provides an API Gateway based on OAuth2 mechanism in order to protect the access of the different API exposed by PIXEL. The Gateway also implements XACML rules in order to define access rules based on API URL and VERBS and the user roles.
-The security solution provides also an Identity Management solution that can be used by other PIXEL components to share the same user identity across all platforms.
+The PIXEL Security solution is in charge of providing a solution to **identify and authenticate users** that could be connected to existing identity management solutions already deployed in ports, and also of providing a solution to control the access of the data managed by the PIXEL platform.
+
+The solution provides an API Gateway based on **OAuth2** mechanism in order to protect the access of the different API exposed by PIXEL. The Gateway also implements **XACML rules** in order to define access rules based on API URL and VERBS and the user roles.
+The security solution provides also an **Identity Management** solution that can be used by other PIXEL components to share the same user identity across all platforms.
 
 Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
