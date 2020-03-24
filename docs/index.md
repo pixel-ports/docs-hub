@@ -33,8 +33,10 @@ The PIXEL architecture is divided into several building blocks to cover a wide r
 </div>
 <br/>
 
+<p align="center">
 <img src="img/PIXEL_global_architecture.jpg" alt="PIXEL architecture" align="center" />
-![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg)
+<!-- ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg) -->
+</p>
 
 
 <br/>
