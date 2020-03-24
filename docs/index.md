@@ -33,13 +33,17 @@ The PIXEL architecture is divided into several building blocks to cover a wide r
 
 ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg)
 
-<br/><br/>
+<br/>
 
 You can see a short video presentation with more information about PIXEL
 <br/>
+<p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=S8tNBK5n24w
 " target="_blank"><img src="http://img.youtube.com/vi/S8tNBK5n24w/0.jpg" 
 alt="PIXEL presentation" width="240" height="180" border="10" /></a>
+</p>
+<br/><br/>
+
 
 ## Data Models
 
