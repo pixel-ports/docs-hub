@@ -9,15 +9,15 @@ repo_url: https://github.com/pixel-ports/docs-hub
 
 pages:
     - PIXEL: index.md
-    - User Guide:
-        - Instructions: user-guide/instructions.md
-        - Configuration: user-guide/configuration.md
-        - Custom themes: user-guide/custom-themes.md
-        - Plugins: user-guide/plugins.md
-    - About:
-        - Release Notes: about/release-notes.md
-        - Contributing: about/contributing.md
-        - License: about/license.md
+#    - User Guide:
+#        - Instructions: user-guide/instructions.md
+#        - Configuration: user-guide/configuration.md
+#        - Custom themes: user-guide/custom-themes.md
+#        - Plugins: user-guide/plugins.md
+#    - About:
+#        - Release Notes: about/release-notes.md
+#        - Contributing: about/contributing.md
+#        - License: about/license.md
 
 copyright: Apache License 2.0
 
