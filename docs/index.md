@@ -33,11 +33,12 @@ The PIXEL architecture is divided into several building blocks to cover a wide r
 
 ## Data Models
 
-The PIXEL Data Models are based on FIWARE data models 
+<div align="justify">
+The PIXEL Data Models are based on FIWARE data models, which have been harmonized to enable data portability for different applications including, Smart Cities, Smart Agrifood, Smart Environment, Smart Sensoring, Smart Enery, Smart Water and others domains. The PIXEL application domain refers to ports and port operations but we will follow and extend the FIWARE methodology.
 
-   - Check [FIWARE Data Models](https://fiware-datamodels.readthedocs.io/en/latest/)
-   - Check [methodology latest documentation](https://inter-iot.readthedocs.io/projects/intermeth/en/latest/)
-
+   - Check more information about [FIWARE Data Models](https://www.fiware.org/developers/data-models/). It also has a [ReadTheDocs](https://fiware-datamodels.readthedocs.io/en/latest/) documentation repository.
+   - Check some [PIXEL data models](https://pixel-ports.eu/)
+</div>
 
 
 ## Models
