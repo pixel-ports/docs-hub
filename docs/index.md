@@ -75,6 +75,13 @@ Ports activities undeniably have an impact on their environment, the city and ci
   - Modelling of **congestion of multi-modal transport networks** to reduce the impact of port traffic on the network. The model will help to understand if a different traffic management has a positive impact on congestions issues, citizens risk on the road and environmental impacts. Check the [latest documentation](https://pixel-ports.eu/) with tutorials and code access (TODO).
    - Modelling of **environmental pollution** of the port to reduce the environmental impacts of the port on the city and its citizens. These simulations can assist the port manager/operator in the **decision-making process** in order to optimize various activities within the port and minimize their impact on the environment. Check the [latest documentation](https://pixel-ports.eu/) with tutorials and code access (TODO). 
 
+<br/>
+<p align="center">
+<img src="img/PIXEL_models.jpg" alt="PIXEL models" align="center" />
+<!-- ![PIXEL High-Level Modules](img/PIXEL_global_architecture.jpg) -->
+</p>
+<br/>
+
 
 ## Predictive Algorithms (PAs)
 
