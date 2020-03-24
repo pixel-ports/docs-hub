@@ -91,8 +91,31 @@ The PIXEL predictive algorithms are able to make following predictions:
   - **Prediction of vessel call data from FAL forms and other sources**: internal data about vessel calls is utilized to predict vessel calls and their durations. General statistical analysis and visualizations are also performed. Vessel call data is available in every port as is obtained from FAL forms which are legally required, thus making this task generally applicable to every port at a low cost. Internal vessel call data that was identified is presented along with the detailed descriptions of the subtasks, methodology and initial results. Check the [latest documentation](https://pixel-ports.eu/) (TODO)
   - **Analysis and prediction of road traffic conditions with connection to port operations**: here hinterland multimodal transport requirements for various ports (Port of Monfalcone, Port of Piraeus and Port of Thessaloniki) are addressed. A common task of short-term traffic volume prediction was identified. Predictions are correlated with port operations to provide estimates on the impact that congestions have on them. Different data sources were identified, mainly from regional road operators or openly available data. Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
   - **Prediction of renewable energy production**: this output provides ports with the ability to estimate the potential of renewable energy production for different time resolutions. it was focused on Port of Bordeaux use case, but the developed methods are general and applicable for any port. Different open data sources are identified about the weather and measured photovoltaic power. Live, as well as historical data sources are presented, with initial results based on this data. Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
+
+<br/>
 </div>  
   
+
+## Port Environmental Index (PEI)
+<div align="justify">
+   
+The Port Environmental Index (PEI) is a **quantitative composite indicator** of the **overall environmental performance** of a port.
+The core idea behind PEI is to devise a comprehensive, standardized and transparent methodology to be used as an integrator of all the significant environmental aspects of a ports and the related impacts into a single metric .
+The metric will be used by the ports to:
+
+  - Evaluate their own environmental performance in a comprehensive integrative manner
+  - Compare their environmental performance to other ports that have deployed the metric
+
+The PEI is provided as a special model and also as the main innovative outcome of PIXEL. The PEI algorithm is based on a solid theoretical framework where environmental KPIs (eKPIs) are identified, normalized, weighted and aggregated.
+
+Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
+
+<p align="center">
+<img src="img/PIXEL_pei.jpg" alt="PIXEL PEI" align="center" />
+</p>
+<br/>
+
+</div>
 
 
 
