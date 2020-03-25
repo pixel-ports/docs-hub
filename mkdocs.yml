@@ -1,10 +1,22 @@
 site_name: PIXEL Documentation Hub
 site_description: 'PIXEL Documentation Hub'
 site_author: 'Benjamin Molina'
+
+# this allows visualizing content in github as anonympus user without having to log in
 edit_uri: blob/master/docs/
 
 theme: readthedocs
-extra_css: ["https://raw.githubusercontent.com/pixel-ports/docs-hub/master/css/pixel_readthedocs.css", "https://raw.githubusercontent.com/pixel-ports/docs-hub/master/css/pixel_readthedocs_core.css"]
+
+# add some extra CSS to finetune the style
+# for example, this would be using FIWARE CSS
+# extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css", "https://www.fiware.org/style/fiware_readthedocs_core.css"]
+
+# extra_css: ["https://raw.githubusercontent.com/pixel-ports/docs-hub/master/css/pixel_readthedocs.css", "https://raw.githubusercontent.com/pixel-ports/docs-hub/master/css/pixel_readthedocs_core.css"]
+extra_css:
+    - css/pixel_readthedocs.css
+    - css/pixel_readthedocs_core.css
+    - css/monokai_sublime_.css
+    - css/pigments-monokai.css
 
 repo_url: https://github.com/pixel-ports/docs-hub
 
