@@ -68,8 +68,8 @@ a.icon-home{
 }
 
 .wy-side-nav-search {
-	background: #fff !important; border-right: #efefef solid 1px;
-
+ background: #87de87 !important; 
+ border-right: #efefef solid 1px;
  clear:both !important; 
  padding:40px 10px 16px 10px;
  background-image: url('img/PIXEL_new_logo_small.png') !important;
