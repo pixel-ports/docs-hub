@@ -1,8 +1,10 @@
 /* highlight styles */
 @import url('https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=4.9.6#038;subset=latin,latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+/* 
 @import url("monokai_sublime_.css");
 @import url("pygments-monokai.css");
+*/
 
 /* Estilos ogilvy v2 */
 .wy-nav-content {max-width: none !important}
@@ -122,7 +124,7 @@ a.icon-home {color:#000000 !important;
 .wy-side-nav-search{
  clear:both !important; 
  padding:40px 10px 16px 10px;
- background-image: url('https://github.com/pixel-ports/docs-hub/raw/master/img/PIXEL_new_logo_small.png') !important;
+ background-image: url('img/PIXEL_new_logo_small.png') !important;
  background-size: 128px 30px !important;
  background-repeat: no-repeat !important;
  background-position: 15px 8px !important; 
