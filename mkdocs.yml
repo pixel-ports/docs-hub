@@ -10,8 +10,7 @@ theme: readthedocs
 # add some extra CSS to finetune the style
 # for example, this would be using FIWARE CSS
 # extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css", "https://www.fiware.org/style/fiware_readthedocs_core.css"]
-
-# extra_css: ["https://raw.githubusercontent.com/pixel-ports/docs-hub/master/css/pixel_readthedocs.css", "https://raw.githubusercontent.com/pixel-ports/docs-hub/master/css/pixel_readthedocs_core.css"]
+# we will use an adapted version from FIWARE
 extra_css:
     - css/pixel_a.css
     - css/pixel_b.css
