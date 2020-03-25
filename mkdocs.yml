@@ -13,8 +13,8 @@ theme: readthedocs
 
 # extra_css: ["https://raw.githubusercontent.com/pixel-ports/docs-hub/master/css/pixel_readthedocs.css", "https://raw.githubusercontent.com/pixel-ports/docs-hub/master/css/pixel_readthedocs_core.css"]
 extra_css:
-    - css/pixel_readthedocs.css
-    - css/pixel_readthedocs_core.css
+    - css/pixel1.css
+    - css/pixel2.css
     - css/monokai_sublime_.css
     - css/pigments-monokai.css
 
