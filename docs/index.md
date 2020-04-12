@@ -166,7 +166,7 @@ In order to reach that goal, a set of high-level operational tools are defined, 
 Check the [latest documentation](https://docs-hub-ot.readthedocs.io/)  with tutorials and code access. 
 
 <p align="center">
-<img src="img/PIXEL_ot.jpg" alt="PIXEL OT" align="center" />
+<img src="img/PIXEL_ot_arch.jpg" alt="PIXEL OT" align="center" />
 </p>
 <br/> 
 
