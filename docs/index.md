@@ -163,7 +163,7 @@ The Operational Tools (OT) are mainly in charge of **bringing closer to the user
 
 In order to reach that goal, a set of high-level operational tools are defined, such as publishing, editing,executing and scheduling models and predictive algorithms. **KPI managament** and **event processing** is also facilitated by the Operational Tools.
 
-Check [latest documentation](https://docs-hub-ot.readthedocs.io/)  with tutorials and code access (TODO). 
+Check the [latest documentation](https://docs-hub-ot.readthedocs.io/)  with tutorials and code access (TODO). 
 
 <p align="center">
 <img src="img/PIXEL_ot.jpg" alt="PIXEL OT" align="center" />
