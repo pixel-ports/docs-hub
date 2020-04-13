@@ -156,7 +156,7 @@ Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and co
 
 
  
-##  Operational Tools (OTs)
+##  Operational Tools (OT)
 <div align="justify">
    
 The Operational Tools (OT) are mainly in charge of **bringing closer to the user** both the **models and predictive algorithms** developed in PIXEL. By user here we mean administrators and managers analysing port operations by means of simulation models and predictive algorithms. 
