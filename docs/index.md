@@ -72,7 +72,9 @@ Ports activities undeniably have an impact on their environment, the city and ci
   - Modelling of the **supply chain and port’s activities** (type of machine, duration of use, position in the port) to enable us to build **activity scenarios** that are used to identify the **energy sources, local emissions of pollutants but also to estimate the flow of cargoes** entering or leaving the port. Check the [latest documentation](https://pixel-ports.eu/) with tutorials and code access (TODO).
   - Modelling of **consumption and energy production** of the port with the aim of moving towards **green energy production**. For operational actors in ports, energy efficiency is an important issue, both from the environmental and economic perspectives. In order to optimize the energy flows inside the port, a prerequisite is to manage and quantify energy consumption and production in the context of complex industrial processes. Check the [latest documentation](https://pixel-ports.eu/) with tutorials and code access (TODO).
   - Modelling of **congestion of multi-modal transport networks** to reduce the impact of port traffic on the network. The model will help to understand if a different traffic management has a positive impact on congestions issues, citizens risk on the road and environmental impacts. Check the [latest documentation](https://pixel-ports.eu/) with tutorials and code access (TODO).
-   - Modelling of **environmental pollution** of the port to reduce the environmental impacts of the port on the city and its citizens. These simulations can assist the port manager/operator in the **decision-making process** in order to optimize various activities within the port and minimize their impact on the environment. Check the [latest documentation](https://pixel-ports.eu/) with tutorials and code access (TODO). 
+   - Modelling of **environmental pollution** of the port to reduce the environmental impacts of the port on the city and its citizens. These simulations can assist the port manager/operator in the **decision-making process** in order to optimize various activities within the port and minimize their impact on the environment. 
+   
+ Check the [latest documentation](https://pixel-ports.eu/) with tutorials and code access (TODO). 
 
 <p align="center">
 <img src="img/PIXEL_models.jpg" alt="PIXEL models" align="center" />
@@ -90,7 +92,9 @@ The PIXEL predictive algorithms are able to make following predictions:
 
   - **Prediction of vessel call data from FAL forms and other sources**: internal data about vessel calls is utilized to predict vessel calls and their durations. General statistical analysis and visualizations are also performed. Vessel call data is available in every port as is obtained from FAL forms which are legally required, thus making this task generally applicable to every port at a low cost. Internal vessel call data that was identified is presented along with the detailed descriptions of the subtasks, methodology and initial results. Check the [latest documentation](https://pixel-ports.eu/) (TODO)
   - **Analysis and prediction of road traffic conditions with connection to port operations**: here hinterland multimodal transport requirements for various ports (Port of Monfalcone, Port of Piraeus and Port of Thessaloniki) are addressed. A common task of short-term traffic volume prediction was identified. Predictions are correlated with port operations to provide estimates on the impact that congestions have on them. Different data sources were identified, mainly from regional road operators or openly available data. Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
-  - **Prediction of renewable energy production**: this output provides ports with the ability to estimate the potential of renewable energy production for different time resolutions. it was focused on Port of Bordeaux use case, but the developed methods are general and applicable for any port. Different open data sources are identified about the weather and measured photovoltaic power. Live, as well as historical data sources are presented, with initial results based on this data. Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
+  - **Prediction of renewable energy production**: this output provides ports with the ability to estimate the potential of renewable energy production for different time resolutions. it was focused on Port of Bordeaux use case, but the developed methods are general and applicable for any port. Different open data sources are identified about the weather and measured photovoltaic power. Live, as well as historical data sources are presented, with initial results based on this data. 
+  
+Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
 <br/>
 </div>  
@@ -191,8 +195,8 @@ These data are represented to the platform user via three main channels:
 - **GIS**: Geolocated data (sensors, devices, services, data result) is represented in a map view, which offers the geospatial interpretation of the data and allows interpolation of information, detecting potential sources of anomalies, etc. 
 - **Notifications**: Coming from executions of predefined rules/conditions, this channel allows the transmission of high-importance or actionable information to the appropriate addressee(s), doing it in the specific moment when the information is useful for informed decision-making, establishing prevention mechanisms or doing meaningful reports.
 
-Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
-
+Check the [latest documentation](https://docs-hub-dashboard.readthedocs.io/)  with tutorials and code access (TODO).
+t
 <p align="center">
 <img src="img/PIXEL_dashboard.jpg" alt="PIXEL Dashboard" align="center" />
 </p>
