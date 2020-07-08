@@ -147,7 +147,7 @@ Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and co
    
 The PIXEL Information Hub consists of several parts conceptually divided into components that push data toward the database (downstream); components involved in stored data retrieval and further processing (upstream) and components responsible for data persistence and storage. In addition, the system provides supporting services for configuring, managing and monitoring the PIXEL Information Hub.
 
-Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
+Check the [latest documentation](https://docs-hub-ih.readthedocs.io)  with tutorials and code access.
 
 <p align="center">
 <img src="img/PIXEL_ih.jpg" alt="PIXEL IH" align="center" />
@@ -195,8 +195,8 @@ These data are represented to the platform user via three main channels:
 - **GIS**: Geolocated data (sensors, devices, services, data result) is represented in a map view, which offers the geospatial interpretation of the data and allows interpolation of information, detecting potential sources of anomalies, etc. 
 - **Notifications**: Coming from executions of predefined rules/conditions, this channel allows the transmission of high-importance or actionable information to the appropriate addressee(s), doing it in the specific moment when the information is useful for informed decision-making, establishing prevention mechanisms or doing meaningful reports.
 
-Check the [latest documentation](https://docs-hub-dashboard.readthedocs.io/)  with tutorials and code access (TODO).
-t
+Check the [latest documentation](https://docs-hub-dashboard.readthedocs.io/)  with tutorials and code access.
+
 <p align="center">
 <img src="img/PIXEL_dashboard.jpg" alt="PIXEL Dashboard" align="center" />
 </p>
