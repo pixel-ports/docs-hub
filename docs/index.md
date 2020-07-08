@@ -174,6 +174,16 @@ Check the [latest documentation](https://docs-hub-ot.readthedocs.io/)  with tuto
 </p>
 <br/> 
 
+You can see a short video presentation with more information in our **Youtube channel**
+<br/>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=eeTDDxm1d9w" target="_blank"><img src="https://i.ytimg.com/vi/eeTDDxm1d9w/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBgrq3DMWZgLHpp5VPjl2JdN-hJQw" 
+alt="PIXEL presentation" width="240" height="180" border="10" /></a>
+</p>
+
+<br/><br/>
+
 </div>
 
 
