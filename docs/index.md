@@ -227,7 +227,7 @@ The PIXEL Security solution is in charge of providing a solution to **identify a
 The solution provides an API Gateway based on **OAuth2** mechanism in order to protect the access of the different API exposed by PIXEL. The Gateway also implements **XACML rules** in order to define access rules based on API URL and VERBS and the user roles.
 The security solution provides also an **Identity Management** solution that can be used by other PIXEL components to share the same user identity across all platforms.
 
-Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
+Check the [latest documentation](https://docs-hub-security.readthedocs.io/)  with tutorials and code access.
 
 <p align="center">
 <img src="img/PIXEL_security.jpg" alt="PIXEL Security" align="center" />
