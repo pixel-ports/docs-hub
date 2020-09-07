@@ -129,7 +129,7 @@ Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and co
 The PIXEL Data Acquisition Layer consists of several components designed to push data from the several data sources available and the PIXEL Information Hub. The solution provides a standard way to acquire data from different data sources that implements different kind of protocols and different data types.
 The idea is to provide a standard way to import data into the PIXEL Information Hub in order to allow an easy use of any kind of data sources available on ports. 
 
-Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
+Check the [latest documentation](https://docs-hub-dal.readthedocs.io/)  with tutorials and code access.
 
 <p align="center">
 <img src="img/PIXEL_dal.jpg" alt="PIXEL DAL" align="center" />
