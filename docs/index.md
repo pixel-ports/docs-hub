@@ -56,7 +56,7 @@ alt="PIXEL presentation" width="240" height="180" border="10" /></a>
 The PIXEL Data Models are based on **FIWARE data models**, which have been harmonized to enable data portability for different applications including, Smart Cities, Smart Agrifood, Smart Environment, Smart Sensoring, Smart Enery, Smart Water and others domains. The PIXEL application domain refers to ports and port operations but we will follow and extend the FIWARE data model methodology.
 
    - Check more information about [FIWARE Data Models](https://www.fiware.org/developers/data-models/). It also has a [ReadTheDocs](https://fiware-datamodels.readthedocs.io/en/latest/) documentation repository.
-   - Check some [PIXEL data models](https://pixel-ports.eu/) (TODO)
+   - Check some [PIXEL data models](https://gitpixel.satrdlab.upv.es/iglaub/Data_Models/src/master/specs/Pixel) 
    
 <br/><br/>
 </div>
@@ -70,7 +70,7 @@ The PIXEL Data Models are based on **FIWARE data models**, which have been harmo
 Ports activities undeniably have an impact on their environment, the city and citizens living nearby. To have a better understanding of these impacts, the ports of the future will require tools allowing suitable **modelling, simulation and data analysis**. Based on the reality of port activities and available data, the PIXEL platform provides various models as useful tools. This will help them to have a better understanding of their environmental impacts. These models are focused on: 
 
   - Modelling of the **supply chain and port’s activities** (type of machine, duration of use, position in the port) to enable us to build **activity scenarios** that are used to identify the **energy sources, local emissions of pollutants but also to estimate the flow of cargoes** entering or leaving the port. Check the [latest documentation](https://docs-pas-model.readthedocs.io/en/latest/).
-  - Modelling of **consumption and energy production** of the port with the aim of moving towards **green energy production**. For operational actors in ports, energy efficiency is an important issue, both from the environmental and economic perspectives. In order to optimize the energy flows inside the port, a prerequisite is to manage and quantify energy consumption and production in the context of complex industrial processes. Check the [latest documentation](https://pixel-ports.eu/) with tutorials and code access (TODO).
+  - Modelling of **consumption and energy production** of the port with the aim of moving towards **green energy production**. For operational actors in ports, energy efficiency is an important issue, both from the environmental and economic perspectives. In order to optimize the energy flows inside the port, a prerequisite is to manage and quantify energy consumption and production in the context of complex industrial processes. Check the [latest documentation](https://docs-pas-model.readthedocs.io/en/latest/).
   - Modelling of **congestion of multi-modal transport networks** to reduce the impact of port traffic on the network. The model will help to understand if a different traffic management has a positive impact on congestions issues, citizens risk on the road and environmental impacts. Check the [latest documentation](https://pixel-ports.eu/) with tutorials and code access (TODO).
    - Modelling of **environmental pollution** of the port to reduce the environmental impacts of the port on the city and its citizens. These simulations can assist the port manager/operator in the **decision-making process** in order to optimize various activities within the port and minimize their impact on the environment. 
    
@@ -92,9 +92,7 @@ The PIXEL predictive algorithms are able to make following predictions:
 
   - **Prediction of vessel call data from FAL forms and other sources**: internal data about vessel calls is utilized to predict vessel calls and their durations. General statistical analysis and visualizations are also performed. Vessel call data is available in every port as is obtained from FAL forms which are legally required, thus making this task generally applicable to every port at a low cost. Internal vessel call data that was identified is presented along with the detailed descriptions of the subtasks, methodology and initial results. Check the [latest documentation](https://pixel-ports.eu/) (TODO)
   - **Analysis and prediction of road traffic conditions with connection to port operations**: here hinterland multimodal transport requirements for various ports (Port of Monfalcone, Port of Piraeus and Port of Thessaloniki) are addressed. A common task of short-term traffic volume prediction was identified. Predictions are correlated with port operations to provide estimates on the impact that congestions have on them. Different data sources were identified, mainly from regional road operators or openly available data. Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
-  - **Prediction of renewable energy production**: this output provides ports with the ability to estimate the potential of renewable energy production for different time resolutions. it was focused on Port of Bordeaux use case, but the developed methods are general and applicable for any port. Different open data sources are identified about the weather and measured photovoltaic power. Live, as well as historical data sources are presented, with initial results based on this data. 
-  
-Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
+  - **Prediction of renewable energy production**: this output provides ports with the ability to estimate the potential of renewable energy production for different time resolutions. it was focused on Port of Bordeaux use case, but the developed methods are general and applicable for any port. Different open data sources are identified about the weather and measured photovoltaic power. Live, as well as historical data sources are presented, with initial results based on this data. Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
 
 <br/>
 </div>  
@@ -112,7 +110,7 @@ The metric will be used by the ports to:
 
 The PEI is provided as a special model and also as the main innovative outcome of PIXEL. The PEI algorithm is based on a solid theoretical framework where environmental KPIs (eKPIs) are identified, normalized, weighted and aggregated.
 
-Check the [latest documentation](https://pixel-ports.eu/)  with tutorials and code access (TODO).
+Check the [PIXEL deliverable D5.3](http://pixel-ports.eu/wp-content/uploads/2020/07/D5.3-PEI-Definition-and-Algorithms-v2.pdf) to see all the details about the algorithm implementation.
 
 <p align="center">
 <img src="img/PIXEL_pei.jpg" alt="PIXEL PEI" align="center" />
